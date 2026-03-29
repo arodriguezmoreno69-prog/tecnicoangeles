@@ -1,0 +1,25 @@
+.T_01 {
+    margin: 30px;
+    padding: 40px;
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+
+.T_02 {
+     color: rgb(43, 0, 255);
+     font-size: 50px;
+
+}
+
+.P_01 {
+    margin: 30px;
+}
+
+img {
+    border-radius: 30px;
+    width: 200px;
+}
+
+
+
